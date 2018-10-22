@@ -3,3 +3,15 @@ When you initialize repository a hidden folder named .git is created to track yo
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Its intermediate place where we can put files before committing them. We can put multiple files in staging area for later committing.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can add only one logical area to staging area before committing.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to test something or maybe keep two different versions of code like one code in English and another in French. Or you can have master branch as production like branch, dev branch or experimentat branch for your DEV.
+
+How do the diagrams help you visualize the branch structure?
+It tells us how branches and commits are linked and whether one commit can be REACHABLE from a particular branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+To incorporate changes of one branch into another. Diagram would help us visualize it.
